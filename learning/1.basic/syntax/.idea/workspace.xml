@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="554f6dec-b029-4f38-9e17-7106927d3fb7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Vp4LeAFX8kXRlrekrEvgKaZO5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2.class" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="554f6dec-b029-4f38-9e17-7106927d3fb7" name="Default Changelist" comment="" />
+      <created>1577936647713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577936647713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1334" y="497" width="300" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577937179101">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1334" y="497" width="300" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1577937179101" />
+    <state x="1644" y="340" width="426" height="480" key="FileChooserDialogImpl" timestamp="1578291728666">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1644" y="340" width="426" height="480" key="FileChooserDialogImpl/0.0.2560.1053@0.0.2560.1053" timestamp="1578291728666" />
+    <state x="1274" y="194" width="1026" height="841" key="SettingsEditor" timestamp="1578128529035">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1274" y="194" width="1026" height="841" key="SettingsEditor/0.0.2560.1053@0.0.2560.1053" timestamp="1578128529035" />
+    <state x="1415" y="408" key="com.intellij.ide.util.TipDialog" timestamp="1578291519565">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1415" y="408" key="com.intellij.ide.util.TipDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1578291519565" />
+    <state x="1136" y="290" width="526" height="475" key="extract.method.dialog" timestamp="1578044751994">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1136" y="290" width="526" height="475" key="extract.method.dialog/0.0.2560.1053@0.0.2560.1053" timestamp="1578044751994" />
+    <state x="1578" y="277" key="run.anything.popup" timestamp="1578124558063">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1578" y="277" key="run.anything.popup/0.0.2560.1053@0.0.2560.1053" timestamp="1578124558063" />
+    <state x="1726" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1578128644283">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1726" y="259" width="672" height="678" key="search.everywhere.popup/0.0.2560.1053@0.0.2560.1053" timestamp="1578128644283" />
+  </component>
+</project>
