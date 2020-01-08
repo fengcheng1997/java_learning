@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="howtoingapp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3.jar/citate/howtoingapp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
