@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d076d45-f4e5-49af-bf07-548767c7b968" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="Green" />
+  </component>
+  <component name="ProjectId" id="1VTHk6bosT13AEJ4hAj0H9imdWe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d076d45-f4e5-49af-bf07-548767c7b968" name="Default Changelist" comment="" />
+      <created>1577270304384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577270304384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1192" y="250" width="802" height="673" key="#Notifications" timestamp="1577324275494">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1192" y="250" width="802" height="673" key="#Notifications/0.0.2560.1053@0.0.2560.1053" timestamp="1577324275494" />
+    <state x="875" y="187" width="802" height="673" key="#Project_Structure" timestamp="1577270509671">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="875" y="187" width="802" height="673" key="#Project_Structure/0.0.2560.1053@0.0.2560.1053" timestamp="1577270509671" />
+    <state x="1211" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577325117470">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1211" y="282" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1577325117470" />
+    <state x="1443" y="481" width="300" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1577324287067">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1443" y="481" width="300" height="212" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1577324287067" />
+    <state x="1324" y="245" width="426" height="480" key="FileChooserDialogImpl" timestamp="1577324383188">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1324" y="245" width="426" height="480" key="FileChooserDialogImpl/0.0.2560.1053@0.0.2560.1053" timestamp="1577324383188" />
+    <state x="1446" y="207" width="1026" height="841" key="SettingsEditor" timestamp="1577324391767">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1446" y="207" width="1026" height="841" key="SettingsEditor/0.0.2560.1053@0.0.2560.1053" timestamp="1577324391767" />
+    <state x="964" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1577324115862">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="964" y="353" key="com.intellij.ide.util.TipDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1577324115862" />
+    <state x="1033" y="400" width="708" height="297" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577270394922">
+      <screen x="0" y="0" width="2560" height="1053" />
+    </state>
+    <state x="1033" y="400" width="708" height="297" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.2560.1053@0.0.2560.1053" timestamp="1577270394922" />
+  </component>
+</project>
