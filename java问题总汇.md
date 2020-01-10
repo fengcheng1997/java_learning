@@ -88,4 +88,13 @@ https://blog.csdn.net/weixin_43131464/article/details/83660555
     new Student("Brush", 66),
     new Student("Newton", 99)));
 
+问题18：java中的常用API（方法）的重写
+Object中常用方法（无需继承、但需要重写）
+toString()
+equals()
+hashCode()
+https://www.cnblogs.com/wxywxy/p/6740277.html
+常用接口及其常用方法（需要继承和重写）
+Collection、Comparator和Comparable等等
+https://blog.csdn.net/qq_35456686/article/details/81478450
 

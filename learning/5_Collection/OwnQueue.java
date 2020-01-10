@@ -1,5 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Comparator;
+import java.lang.Comparable;
 
 
 public class OwnQueue{
