@@ -61,5 +61,31 @@ java  -cp .:howtoingapp.jar Citate
 1、编译的时候，需要使用-cp环境变量来引入外部jar的地址。-cp也可以换成-classpath。
 2、运行过程中，环境变量-cp中一定要加入编译时候生成的class文件的路径。并且用冒号分割。
 
+问题14：子类中重写是不是可以修改非借口函数的函数体？
+是的
+
+问题15：List list = new ArrayList(), 为什么要向上转型?
+List是个接口，可以用来声明被绑定任一在该接口实现的对象。
+上述代码中，list可以使用实现类ArrayList实现接口List中的属性和方法。如果需求改变，需要将ArrayList换成其他实现类（如LinkedList),只需要将上述代码改成List list = new LinkedList()就行了。因为LinkedList也实现了List中的方法，且有些实现和ArrayList不同。
+https://blog.csdn.net/xiaohuo0930/article/details/91129023
+
+
+
+问题16：接口和类的区别？
+1.接口无法被实例化，但是可以被实现。
+2.在Java中，接口类型可用来声明一个变量，他们可以成为一个空指针，或是被绑定在一个以此接口实现的对象。如问题15题中所述。
+https://blog.csdn.net/weixin_43131464/article/details/83660555
+
+问题17：为什么会出现注:“ xxx.java使用了未经检查或不安全的操作。 注: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。”的情况
+因为创建变量时泛型没有写清楚
+//List<Student> list = new ArrayList<Student>(Arrays.asList(
+  List<Student> list = new ArrayList<>(Arrays.asList( //最简单的写法，又不会提示不安全操作
+//List list = new ArrayList<>(Arrays.asList(
+//List list = new ArrayList(Arrays.asList(
+//List<> list = new ArrayList<>(Arrays.asList( //错误，上面都可以编译通过
+    new Student("Bob", 78),
+    new Student("Alice", 85),
+    new Student("Brush", 66),
+    new Student("Newton", 99)));
 
 
