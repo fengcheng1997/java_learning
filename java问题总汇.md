@@ -93,8 +93,49 @@ Object中常用方法（无需继承、但需要重写）
 toString()
 equals()
 hashCode()
-https://www.cnblogs.com/wxywxy/p/6740277.html
+ht	tps://www.cnblogs.com/wxywxy/p/6740277.html
 常用接口及其常用方法（需要继承和重写）
 Collection、Comparator和Comparable等等
 https://blog.csdn.net/qq_35456686/article/details/81478450
+
+问题18：Comparable和Comparator的区别是什么？
+Comparable 比较接口，需要在类内实现
+Comparator 比较器接口，在类外实现
+
+https://blog.csdn.net/u010859650/article/details/85009595
+
+附注
+Collection与Collections的区别	
+Collection是集合类的上级接口，继承与他有关的接口主要有List和Set
+Collections是针对集合类的一个帮助类，他提供一系列静态方法实现对各种集合的搜索、排序、线程安全等操作
+
+问题19：Iterator和Iterable的区别
+实现了Iterable接口的集合对象支持迭代,而且这个对象内部写一个实现实现Iterator的内部类（方法内部类、成员内部类或者
+https://www.liaoxuefeng.com/wiki/1252599548343744/1265124784468736
+
+问题20：向上转型后调用方法和属性是什么样的？
+向上转型后调用方法是子类的，但是属性还是父类中的
+
+问题21：lambda表达式的基本用法以及在多线程中的应用
+使用
+```
+Thread t = new Thread(()->{
+	public void run() {
+	    System.out.println("lalala");
+	}
+    }).start();
+```
+代替
+```
+Thread t = new Thread(new Runnable() {
+	public void run() {
+	    System.out.println("lalala");
+	}
+    });
+t.start();
+```
+
+问题22：java中Class对象详解
+java中有两种对象一个是实例对象一个是Class对象
+Class是个信息类，在运行时跟踪类，掌握类的全部信息。
 
